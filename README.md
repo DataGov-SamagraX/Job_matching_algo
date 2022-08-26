@@ -10,4 +10,4 @@ Pre-reqs:
 - Python libraries :
   - Pandas (pip install pandas) 
   - Numpy (pip install numpy) 
-  - PulP (pip install PuLP)
+  - PuLP (pip install PuLP)
