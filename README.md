@@ -1,6 +1,5 @@
 # Job_matching_algo
 
-
 Exploratory work undertaken for job-matching algorithm for Saksham S&E
 
 - Run the notebook "LPP optimization for job selection.ipynb". It pulls data from the csv files provided 
